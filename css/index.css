@@ -13,4 +13,8 @@ font-weight: bold;}
 h4{margin-top: 0%;}
 .timimg{height: 500px;
 width: 600px;}
-
+h5{margin-top: 0%;
+margin-bottom: 0%;}
+.article{font-family: Arial, Helvetica, sans-serif;
+font-size: large;}
+ul{padding: 15px;}
